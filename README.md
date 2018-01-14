@@ -8,6 +8,7 @@ write something need to find the ansower when have the time
 3. carthage
 4. npm
 5. libimobiledevice
+6. tesseract
 
 
 
