@@ -12,8 +12,7 @@ write something need to find the ansower when have the time
 
 
 
-#what is this API:
-
+# what is this API:
 1. pip install pytesseract
 2. pip install pillow  
 3. pip install requests
