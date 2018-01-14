@@ -9,7 +9,7 @@ write something need to find the ansower when have the time
 4. npm
 5. libimobiledevice
 6. tesseract
-
+7. cmder 
 
 
 
