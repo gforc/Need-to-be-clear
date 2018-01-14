@@ -7,3 +7,4 @@ write something need to find the ansower when have the time
 2. brew
 3. carthage
 4. npm
+5. libimobiledevice
