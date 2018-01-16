@@ -1,0 +1,9 @@
+# what is libimobiledevice
+ibimobiledevice又称libiphone，是一个开源包，可以让Linux支持连接iPhone/iPod Touch等iOS设备。由于苹果官方并不支持Linux系统，但是Linux上的高手绝对不能忍受因为要连接iOS设备就换用操作系统这个事儿。因此就有人逆向出iOS设备与Windows/Mac Host接口的通讯协议，最终成就了横跨三大桌面平台的非官方版本USB接口library。经常用Linux系统的人一定对libimobiledevice不陌生，但是许多Windows和Mac用户也许就不知道了。事实上，它同iTools一样，都是可以替代iTunes，进行iOS设备管理的工具。因为源码是开放的，可以自行编译，所以对很多开发者而言可以说更为实用。
+
+# install
+
+brew update
+brew install libimobiledevice
+#libimobiledevice中并不包含ipa的安装命令，所以还需要安装
+brew install ideviceinstaller
