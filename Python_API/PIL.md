@@ -4,6 +4,7 @@ Pillow是Python里的图像处理库（PIL：Python Image Library），提供了
 # how to ues
 
 '''
+
 import PIL
 
 im = Image.open("E:/photoshop/1.jpg") 
