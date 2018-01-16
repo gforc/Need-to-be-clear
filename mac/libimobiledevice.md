@@ -4,6 +4,10 @@ ibimobiledevice又称libiphone，是一个开源包，可以让Linux支持连接
 # install
 
 brew update
+
 brew install libimobiledevice
+
 #libimobiledevice中并不包含ipa的安装命令，所以还需要安装
+
 brew install ideviceinstaller
+
