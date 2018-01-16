@@ -14,3 +14,10 @@ print(im.format, im.size, im.mode)
 ('JPEG', (600, 351), 'RGB')
 
 '''
+
+# API
+## Convert
+http://blog.csdn.net/icamera0/article/details/50843172
+
+九种不同模式: 1，L，P，RGB，RGBA，CMYK，YCbCr，I，F;
+
