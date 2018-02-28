@@ -1,6 +1,8 @@
 
 
-# 1.Import
+
+
+# Import
 如果要引用的脚本与本脚本不在同一个目录级，可以在本脚本开通添加一下代码：
 ```
 import sys
@@ -12,4 +14,13 @@ sys.path.append(path)
 ```
 import sys
 sys.path.append('C:/001Work/001Automation/svn/QualityAnalyzer_local1/')
+```
+
+# os
+```
+PWD = os.getcwd()
+```
+# platform
+```
+local_platform = platform.system()
 ```
