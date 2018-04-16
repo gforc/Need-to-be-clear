@@ -67,3 +67,11 @@ my process ID is 6420
 my process ID is 6420
 do something                #但按ctl +c 时，调用函数handle_method
 ```
+
+
+# 正负无穷
+
+Python中可以用如下方式表示正负无穷：
+```
+float("inf"), float("-inf")
+```
